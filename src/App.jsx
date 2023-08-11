@@ -7,7 +7,7 @@ const menu = [
     item: "珍珠奶茶",
     description: "香濃奶茶搭配QQ珍珠",
     price: 50,
-    stock: 20,
+    stock: 2,
   },
   {
     id: 2,
